@@ -58,3 +58,8 @@
 	Working directory: er skrá með uppspretta skrár undir git stjórn
 	Staging area: er skrá, sem geymir upplýsingar um hvað megi fara inn í næstu "commit"
 	Repository: Bæði Git og Github vísa "repository" sem geymsla eða "repo", stafræna skrá eða geymslurými þar sem þú getur fengið aðgang að verkefnum, skrám, og allar útgáfur af skrám sínum sem Git sparar
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+=
+8.
+	Í Git, þá er "branches" stór partur af lífinu þínu. Þegar þú vilt bæta við nýrri lögun eða laga villu, þú býrð til nýja grein til að þjappa breytingarnar þínar.
