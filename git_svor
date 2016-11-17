@@ -51,3 +51,10 @@
 =
 6.
 	Ef vinna með skjal sem þú einn höndlar þá commita fyrir hverja stærri breytingu þar sem aðrir þurfa ekki nýjustu gerðina af skjalinu, ef unnið með öðrum ætti að commita fyrir hverja minni breytingu
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+=
+7.
+	Working directory: er skrá með uppspretta skrár undir git stjórn
+	Staging area: er skrá, sem geymir upplýsingar um hvað megi fara inn í næstu "commit"
+	Repository: Bæði Git og Github vísa "repository" sem geymsla eða "repo", stafræna skrá eða geymslurými þar sem þú getur fengið aðgang að verkefnum, skrám, og allar útgáfur af skrám sínum sem Git sparar
