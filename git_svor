@@ -1,1 +1,14 @@
 "Git spurningar og svör"
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+=
+1.
+	cd: cd skipun er notuð til að breyta núverandi möppu í Linux
+	cd ~: hver notandi getur farið strax á heimasvæði sínu
+	ls: listar upplýsingar um skrár
+	pwd: pwd skipunin skrifar út fulla slóð að núverandi möppu
+	mkdir: mkdir skipunin er notuð til að búa til nýja möppur
