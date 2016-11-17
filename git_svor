@@ -12,3 +12,21 @@
 	ls: listar upplýsingar um skrár
 	pwd: pwd skipunin skrifar út fulla slóð að núverandi möppu
 	mkdir: mkdir skipunin er notuð til að búa til nýja möppur
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+=
+2.
+	git clone: niðurhal  verkefni og allar útgáfu sögu þess.
+	git log: listar útgáfu sögu fyrir núverandi grein
+	git status: listar allar nýjar eða breyttar skrár til að vera skuldbundinn
+	git diff: sýnir skrá ekki enn sett upp
+	git checkout: skiptir yfir til ákveðna grein og uppfærir vinnumöppuna
+3.
+a) git diff: sýnir skrá ekki enn sett upp
+b) git diff --staged: sýnir muninn á sett upp skrá og síðasta skrá útgáfu
+c) git diff commit1 commit2: er notuð til að skoða breytingarnar á milli tveggja handahófs(arbitrary)
