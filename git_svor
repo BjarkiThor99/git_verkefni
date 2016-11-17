@@ -46,3 +46,8 @@
 =
 5.
 	Github leyfir þér og öðrum að vinna saman að verkefni hvar sem er
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+=
+6.
+	Ef vinna með skjal sem þú einn höndlar þá commita fyrir hverja stærri breytingu þar sem aðrir þurfa ekki nýjustu gerðina af skjalinu, ef unnið með öðrum ætti að commita fyrir hverja minni breytingu
